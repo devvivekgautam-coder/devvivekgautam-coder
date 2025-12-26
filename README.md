@@ -151,24 +151,4 @@ My profile represents a **dark-neon hacker aesthetic** — focused, futuristic, 
 
 ---
 
-## 🎯 Future Goals Roadmap
-
-```diff
-+ Master Data Structures & Algorithms
-+ Build real-world Full-Stack projects
-+ Contribute to Open Source
-+ Crack coding interviews
-+ Become a Professional Developer
-```
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/devvivekgautam-coder/devvivekgautam-coder/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ⭐ **Follow my journey from Beginner to Pro** — one commit at a time 🚀
