@@ -103,27 +103,6 @@ while (alive) {
 
 ---
 
-## 🛠️ Projects Showcase (Live & Growing)
-
-<p align="center">
-  <a href="https://github.com/devvivekgautam-coder" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devvivekgautam-coder&repo=HTML-CSS-Projects&theme=radical" />
-  </a>
-  <a href="https://github.com/devvivekgautam-coder" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devvivekgautam-coder&repo=JavaScript-Logic&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/devvivekgautam-coder" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devvivekgautam-coder&repo=Python-Programs&theme=radical" />
-  </a>
-</p>
-
-> 🔔 *More real-world projects coming soon as I level up…*
-
----
-
 ## 🎨 Dark Neon Developer Theme
 
 ```css
