@@ -58,20 +58,12 @@ Tools      : Git | GitHub | VS Code
 ## ⚡ Live GitHub Activity (Motion Mode)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devvivekgautam-coder&theme=radical&no-frame=true&margin-w=15" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=devvivekgautam-coder&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devvivekgautam-coder&show_icons=true&theme=radical&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvivekgautam-coder&layout=compact&theme=radical&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devvivekgautam-coder&theme=redical&hide_border=true" />
 </p>
 
 ---
