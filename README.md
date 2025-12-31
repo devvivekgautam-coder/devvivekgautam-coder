@@ -55,19 +55,6 @@ Tools      : Git | GitHub | VS Code
 
 ---
 
-## ⚡ Live GitHub Activity (Motion Mode)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devvivekgautam-coder&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devvivekgautam-coder&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvivekgautam-coder&layout=compact&theme=radical&hide_border=true" height="170" />
-</p>
-
----
-
 ## 🚀 Learning Journey: Beginner ➜ Professional
 
 ```mermaid
